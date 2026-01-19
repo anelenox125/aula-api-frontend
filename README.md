@@ -15,3 +15,9 @@ O componente `ApiComponent` busca dados de usuários da API pública [JSONPlaceh
 ---
 
 ## 📂 Estrutura do projeto
+src/
+├── ApiComponent.tsx    # Componente principal que consome a API
+├── App.tsx             # Ponto de entrada do React
+├── main.tsx            # Renderização do ReactDOM
+public/
+└── index.html          # HTML base
